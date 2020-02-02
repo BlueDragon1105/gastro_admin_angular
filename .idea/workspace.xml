@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="33c323e7-6e5b-46c6-bbde-12aad4303221" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/backend/config/jwt.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/controllers/order.controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/helpers/functions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/routes/order.route.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/guard/auth.guard.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/helper/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/helper/jwt.interceptor.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/material.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/utils/UrlJSON.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/assets/css/common.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/assets/css/media.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/assets/image/backgroud-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/assets/image/background-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/assets/image/default-avatar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/assets/image/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/.env" beforeDir="false" afterPath="$PROJECT_DIR$/backend/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/config/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/config/config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/config/database.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/config/database.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/config/express.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/config/express.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/controllers/auth.controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/controllers/auth.controller.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/controllers/main.controller.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/controllers/profile.controller.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/controllers/test.controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/controllers/test.controller.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/routes/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/routes/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/routes/private/home.route.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/routes/private/profile.route.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/routes/public/auth.route.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/routes/auth.route.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/routes/public/test.route.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/routes/test.route.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/tracker.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/app/app-routing.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/environments/environment.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/environments/environment.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/main.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/styles.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/frontend" />
+  </component>
+  <component name="ProjectId" id="1X49YYK8X8RR9cJGXEE3AS36mJ6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="ts.external.directory.path" value="E:\works\Gernany Angular Project\gastro_admin\frontend\node_modules\typescript\lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\works\Gernany Angular Project\gastro_admin\frontend\src\app\helper" />
+      <recent name="E:\works\Gernany Angular Project\gastro_admin\frontend\src\assets\image" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="33c323e7-6e5b-46c6-bbde-12aad4303221" name="Default Changelist" comment="" />
+      <created>1580294547849</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580294547849</updated>
+      <workItem from="1580294550391" duration="17722000" />
+      <workItem from="1580347672560" duration="416000" />
+      <workItem from="1580376796622" duration="2949000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="734" y="308" key="FileChooserDialogImpl" timestamp="1580348092811">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="734" y="308" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1580348092811" />
+  </component>
+</project>
